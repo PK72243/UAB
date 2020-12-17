@@ -1,1 +1,3 @@
-readme
+In the folder there is main code file called dsgefinal.
+There are also some npy objects that were created by running this code. They can be loaded with the code to spare time.
+Unfortunetely, one of the npy objects was too big (around 60 MB), it stores the results of the main simulation that lasted for 3 hours, so if it is neede I can send it to you in some other way.
