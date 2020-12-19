@@ -1,1 +1,3 @@
-data readme
+There are 3 data files:
+pwt91 is a Penn World Table, from which I take consumption and tfp 
+FDI and RD_WBD are data from World Bank Data concerning technology
